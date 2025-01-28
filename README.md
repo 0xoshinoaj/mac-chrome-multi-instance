@@ -12,7 +12,7 @@
 ### 1. 下載並設定
 ```shell
 # 下載專案
-git clone https://github.com/oshinoaj/mac-chrome-multi-instance.git
+git clone https://github.com/0xoshinoaj/mac-chrome-multi-instance.git
 cd mac-chrome-multi-instance
 
 # 添加執行權限
